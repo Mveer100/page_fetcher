@@ -1,0 +1,25 @@
+{
+  "name": "page_fetcher",
+  "version": "1.0.0",
+  "description": "fetches data from a webpage",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mveer100/page_fetcher.git"
+  },
+  "author": "@Mveer100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mveer100/page_fetcher/issues"
+  },
+  "homepage": "https://github.com/Mveer100/page_fetcher#readme",
+  "devDependencies": {
+    "require": "^2.4.20"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
